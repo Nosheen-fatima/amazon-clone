@@ -19,7 +19,7 @@ function ProductFeed({ products }) {
         ))}
 
       <img
-        className="md:col-span-full"
+        className="md:col-span-full bg-yellow-400"
         src="https://links.papareact.com/dyz"
         alt=""
       />
